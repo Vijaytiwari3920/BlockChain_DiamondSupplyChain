@@ -1,4 +1,4 @@
-# **💎 Diamond Supply Chain Tracker on Ethereum**
+# **💎 Diamond Supply Chain Tracker on Ethereum.**
 
 ## **About The Project**
 
